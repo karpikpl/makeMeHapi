@@ -1,0 +1,14 @@
+{
+  "name": "make-me-hapi",
+  "version": "1.0.0",
+  "description": "solutions for makeMeHapi nodeschool workshop",
+  "main": "hello.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Piotr Karpala",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}
